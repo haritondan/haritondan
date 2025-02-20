@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haritondan
-- 👀 I’m interested in anime,football and drawing
-- 🌱 I’m currently learning Software Engineering at TUM
+- 👀 I’m interested in ui/ux, drawing and frontend development
+- 🌱 I’m currently in my last semester as a Software Engineering at TUM
 - 📫 How to reach me - e-mail: danhariton22@gmail.com
 
 <!---

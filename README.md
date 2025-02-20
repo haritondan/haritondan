@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @haritondan
+# 👋 Hi, I’m Dan
 
 - 👀 I’m interested in ui/ux, drawing and frontend development
 - 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/dan-hariton-638951241/)

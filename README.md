@@ -4,6 +4,7 @@
 - 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/dan-hariton-638951241/)
 - 🌱 I’m currently in my last semester as a Software Engineering at TUM
 - 📫 How to reach me - e-mail: danhariton22@gmail.com
+- 👮 Second Profile - [Github](https://github.com/dannhariton)
 
 ## 🧩 Frameworks
 <div>

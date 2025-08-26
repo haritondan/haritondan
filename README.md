@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dan
 
-- 🌱 I’m currently a UI Developer with a Bachelor's in Software Engineering
+- 🌱 I’m currently a UI Developer with a Bachelor's Degree in Software Engineering
 - 👀 I’m interested in ui/ux, drawing, and frontend development
 - 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/dan-hariton-638951241/)
 - 📫 How to reach me - e-mail: danhariton22@gmail.com
